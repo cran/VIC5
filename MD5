@@ -1,4 +1,4 @@
-8f0f929a3ebd43c3a350606d366925c2 *DESCRIPTION
+237a464bff3d11304631b030073c0793 *DESCRIPTION
 9fbf2b62763c9487c98e3eb5b7d14dde *NAMESPACE
 f7aa9e5908423009e5875f6e7e4dd4ed *NEWS.md
 c95f8692d6d6ed01563b85f2675bed64 *R/RcppExports.R
@@ -13,7 +13,7 @@ d3b2e962785a24b5fd664a96469bcdc5 *R/vic.R
 5a2c41f1fd6e6fc2e42fad88a9a389bb *R/vic_forcing.R
 155ee69f0ee12a25788bd481a476f723 *R/vic_params.R
 966cb4b9d788e1234c1b38dbcf2cdacf *README.md
-fb306750f0a3227a0e5a9a0ff91fa274 *build/partial.rdb
+ab79ad0adc84c70b47e272a2ac7a76a9 *build/partial.rdb
 fae852922e320a3763e15cdff210c392 *data/STEHE.rda
 8889ba7bb0955fd113a2219a05217d29 *data/veglib_IGBP.rda
 478d8116f9bb7a39b3ba33699c2ecffd *inst/COPYRIGHTS
@@ -21,7 +21,7 @@ fae852922e320a3763e15cdff210c392 *data/STEHE.rda
 9e49f8cd3a47e002741abe101c56d896 *inst/extdata/fract_STEHE.asc
 fe79abeb2a51925198691a62256bb44c *man/NSE.Rd
 5dd8a2e597cdbacabc2e991fa072a669 *man/STEHE.Rd
-160c78a3bda3c4683ca8281d5d578967 *man/VIC5.Rd
+4425c17281a97a34a3bc644c84157794 *man/VIC5.Rd
 6885cc903c6a6723a6e5eadd5f2799e2 *man/veglib_IGBP.Rd
 1b175efa2c2a7b4ab3808c41bca39ae4 *man/vic.Rd
 84eadc440b3f6956bfdeff8a8ae6464d *man/vic_param.Rd
@@ -147,4 +147,4 @@ b02ee7f2b53010e3c6a169b15a3e9242 *src/vic_run_cell.cpp
 dd6e30249230949b2395c0a162983daf *src/vic_run_cells_all.cpp
 cfc5b9ff72bb4b3578b828cd9fcd2925 *src/vic_version.cpp
 125bae96d22aab8138df849a30549d44 *tests/testthat.R
-43c5ce58fa83d43c6ab87904f434596f *tests/testthat/test-vic.R
+fb6d501b05473d741883d43fd1c11939 *tests/testthat/test-vic.R
