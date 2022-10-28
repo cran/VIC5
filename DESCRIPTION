@@ -1,7 +1,7 @@
 Package: VIC5
 Type: Package
 Title: The Variable Infiltration Capacity (VIC) Hydrological Model
-Version: 0.2.4
+Version: 0.2.5
 Authors@R: c(
     person("Ruida", "Zhong", email = "zrd2017@163.com", role = c("aut", "ctb")),
     person("Dongdong", "Kong", role = c("aut", "cre"), 
@@ -40,10 +40,10 @@ Depends: R (>= 3.6.0)
 Imports: stats, utils, lubridate, Rcpp, foreach
 Suggests: testthat (>= 3.0.0), doParallel
 LinkingTo: RcppArmadillo, Rcpp
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.1
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2021-12-08 13:00:23 UTC; kongdd
+Packaged: 2022-10-28 06:08:15 UTC; hydro
 Author: Ruida Zhong [aut, ctb],
   Dongdong Kong [aut, cre] (<https://orcid.org/0000-0003-1836-8172>),
   Xiaohong Chen [aut, ctb],
@@ -53,4 +53,4 @@ Author: Ruida Zhong [aut, ctb],
   Keith Cherkauer [ctb]
 Maintainer: Dongdong Kong <kongdd.sysu@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-12-08 13:20:05 UTC
+Date/Publication: 2022-10-28 11:07:39 UTC
