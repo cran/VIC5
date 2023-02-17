@@ -1,6 +1,6 @@
-c29c79fb88f64fbbfc6735861ad66281 *DESCRIPTION
+1017d457aeacec3e16c41f44c1b2fbca *DESCRIPTION
 50346717a1bf1472a9e1d574b4c45293 *NAMESPACE
-a95cc48bbfa857ed9b29648dbc259918 *NEWS.md
+c56fb817b1bfbae3f76b7cd34ca059be *NEWS.md
 6b3bbdabcf4329ca6d7f679395950dc3 *R/RcppExports.R
 97d074f2292c7fed9b25a40eb961fa39 *R/VIC5-package.R
 d9aba77c4569d27c0c65885a4b3a50ab *R/coefficient.R
@@ -14,8 +14,8 @@ f0723655139a5bec26678b880b27f791 *R/tools.R
 82489999a1ae9c7051b1b0d116cdb9d0 *R/vic.R
 5a2c41f1fd6e6fc2e42fad88a9a389bb *R/vic_forcing.R
 155ee69f0ee12a25788bd481a476f723 *R/vic_params.R
-e68f2ea315818315fede855ef3ba6ec2 *README.md
-afbe4209b3bb961ba3e41cbfe79ea507 *build/partial.rdb
+91f5298d4b5cf04d32a1317d9ce92ce6 *README.md
+cb4924f3573383fca290a0a8e2ca5294 *build/partial.rdb
 fae852922e320a3763e15cdff210c392 *data/STEHE.rda
 8889ba7bb0955fd113a2219a05217d29 *data/veglib_IGBP.rda
 478d8116f9bb7a39b3ba33699c2ecffd *inst/COPYRIGHTS
@@ -48,7 +48,7 @@ ea827b9bfad3b5d8c63a769ed7d9eb82 *src/vic/drivers/shared_all/src/agg_data.c
 10c8a557c895df2892a9bf4787b6a45f *src/vic/drivers/shared_all/src/alarms.c
 045df1edba28b2ae11a04da08d6d0da6 *src/vic/drivers/shared_all/src/calc_root_fraction.c
 a5e25ed1d78f0ca9fb35ba7e7167e8fe *src/vic/drivers/shared_all/src/cmd_proc.c
-faa820c3c712840f7cbede422cd5f3cf *src/vic/drivers/shared_all/src/compress_files.c
+244d47a60805d94ab8e6ed747d72e4cc *src/vic/drivers/shared_all/src/compress_files.c
 a98c8c787e4ec0e49cb823820d9f4a6b *src/vic/drivers/shared_all/src/compute_derived_state_vars.c
 feae8a1c23ba3fbf2eb51815cd184bb6 *src/vic/drivers/shared_all/src/compute_lake_params.c
 47ee60e04386342075ff6345343c810b *src/vic/drivers/shared_all/src/compute_treeline.c
@@ -66,7 +66,7 @@ e8a8adf62c9e8390f801c04cc4df4545 *src/vic/drivers/shared_all/src/initialize_ener
 dddf542e1f2bac88176f683224245a39 *src/vic/drivers/shared_all/src/initialize_snow.c
 da90d3cfd9f7554e4dccc11ce1fa0394 *src/vic/drivers/shared_all/src/initialize_soil.c
 308faaf30cc060b6058b0f5d352f2d3b *src/vic/drivers/shared_all/src/initialize_veg.c
-ce6be9d66ba68d018a215916f85c9f8a *src/vic/drivers/shared_all/src/input_tools.c
+0bc001a5025250cf3cec7822780d2105 *src/vic/drivers/shared_all/src/input_tools.c
 a1cd83304fe21672b6a3483f0cae5df6 *src/vic/drivers/shared_all/src/make_all_vars.c
 6b28ee9bef4b1a6b7c9617d687dd3aa3 *src/vic/drivers/shared_all/src/make_cell_data.c
 52518957f9f7fe3adf746f62fb07d122 *src/vic/drivers/shared_all/src/make_dmy.c
@@ -74,14 +74,14 @@ a1cd83304fe21672b6a3483f0cae5df6 *src/vic/drivers/shared_all/src/make_all_vars.c
 baaca9759d8928e03bd62fd00450c399 *src/vic/drivers/shared_all/src/make_snow_data.c
 14575aa48fc3abeefdd39518d98fa65e *src/vic/drivers/shared_all/src/make_veg_var.c
 fcc593936342339cc063a3c724a61ac8 *src/vic/drivers/shared_all/src/open_file.c
-659a55cb212d558972efa64e1ce891c8 *src/vic/drivers/shared_all/src/print_library_shared.c
+452d972e005ee306ab2645a267456621 *src/vic/drivers/shared_all/src/print_library_shared.c
 649046a40f63a48f0d60ebb7dfe3752d *src/vic/drivers/shared_all/src/put_data.c
 289269039e6982713800ab7abd9b7b8a *src/vic/drivers/shared_all/src/set_output_defaults.c
 ff398195a1c331ba86b27e961bfd21db *src/vic/drivers/shared_all/src/soil_moisture_from_water_table.c
 d16a81ee8cdf9c053b786185064a87bb *src/vic/drivers/shared_all/src/timing.c
 de5248006f321a34e8abd79bf0770b04 *src/vic/drivers/shared_all/src/update_step_vars.c
 2576b04b0fad37844ee22805b5ff3e74 *src/vic/drivers/shared_all/src/vic_history.c
-7e09172a59195a2bbea5bc582b1df43f *src/vic/drivers/shared_all/src/vic_log.c
+67627b61ac1f45b9a86fd441ccd727f6 *src/vic/drivers/shared_all/src/vic_log.c
 1e23cf006ab29725d810ae3a4922b4fd *src/vic/drivers/shared_all/src/vic_time.c
 23a7c5d105fe5139b9e34bff97df37a1 *src/vic/drivers/shared_all/src/zero_output_list.c
 b1bb519615d5a8c9160d8298ae58f426 *src/vic/vic_run/include/vic_def.h
